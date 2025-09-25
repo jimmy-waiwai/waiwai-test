@@ -6,6 +6,15 @@ RewriteRule ^everyday(.*)$ /everyday [R=301,L]
 
 **************************************
 
+RewriteRule ^takarazuka/index.html$ /takarazuka [R=301,L]
+
+
+
+
+
+
+
+
 RewriteRule ^takarazuka/2018(.*)$ /bbb [L,R=301]
 
 skystage
